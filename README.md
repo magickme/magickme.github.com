@@ -1,0 +1,2 @@
+# magickme.github.com
+resources
